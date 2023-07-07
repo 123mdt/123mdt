@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Картошка
-- 👀 I’m interested in Water
-- 🌱 I’m currently learning Africa Language.
+
