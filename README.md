@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @123mdt
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-123mdt/123mdt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Картошка
+- 👀 I’m interested in Woter
+- 🌱 I’m currently learning Africa Language.
